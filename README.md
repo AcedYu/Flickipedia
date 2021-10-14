@@ -1,6 +1,5 @@
 # Gamehub
-This assignment was assigned by the U.C. Berkeley Extension Full-time Full Stack Flex Boot Camp.
-This is the first major collaborative project assigned by the program. In this assignment our team was tasked to create a website that drew on multiple different APIs, used a CSS framework outside of the one we were taught in class, and used a Javascript library that we've never used before in class. The app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean, polished, and responsive user interface.
+This was a major collaborative project. In this assignment our team was tasked to create a website that drew on multiple different APIs, used a CSS framework outside of the one we were taught in class, and used a Javascript library that we've never used before. The app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean, polished, and responsive user interface.
 
 It contains notable features such as:
 - A searchbar with a connected selector bar and check boxes all used to form the search query
@@ -38,7 +37,6 @@ Using the following Frameworks and Libraries:
 ## Authors
 AcedYu
 - [Link to Github](https://github.com/AcedYu)
-- [Link to LinkedIn](https://www.linkedin.com/in/alex-yu-3712811b9/)
 
 LiamStewart8
 - [Link to Github](https://github.com/LiamStewart8)
