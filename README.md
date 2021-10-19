@@ -33,15 +33,3 @@ Using the following Frameworks and Libraries:
 ## Deployed Link
 
 * [See Live Site](https://acedyu.github.io/gamehub/)
-
-## Authors
-AcedYu
-- [Link to Github](https://github.com/AcedYu)
-
-LiamStewart8
-- [Link to Github](https://github.com/LiamStewart8)
-- [Link to LinkedIn](https://www.linkedin.com/in/liamsctewart/)
-
-TMPeeler
-- [Link to Github](https://github.com/TMPeeler)
-- [Link to LinkedIn](https://www.linkedin.com/in/thomas-peeler-2879bb208/)
